@@ -10,7 +10,7 @@
     "react-dom": "^16.2.0",
     "react-scripts": "1.1.1"
   },
-  "homepage" : "http://www.thepuneeth1996p.cf/proj/react-weather-app/",
+  "homepage" : ".",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
